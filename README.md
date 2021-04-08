@@ -86,6 +86,9 @@ The original code of the file is as follows:
 #### Note: Don't worry about the `checkpoints` section; I will fix that myself.
 
 ## **Adding New Skill Training Method** 
+
+![imgur gif](https://i.imgur.com/RHUdQdE.gif)
+
 Again, I am using the `construction.json` file we edited above.
 This time, I want to add a new skilling type, `oak dungeon doors`.
 To add that in is very simple, see below.
