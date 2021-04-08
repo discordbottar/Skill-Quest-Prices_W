@@ -9,7 +9,7 @@
         {   "id" : 1,
             "start_level" : 1,
             "end_level" : 99,
-            "gp/xp" : 10,
+            "gp/xp" : 34,
             "notes" : "Splashing using best spells.",
             "text" : "1 - 99 magic",
             "num_group" : 0
@@ -18,7 +18,7 @@
             "id" : 3,
             "start_level" : 55,
             "end_level" : 99,
-            "gp/xp" : 35,
+            "gp/xp" : 67,
             "notes" : "High Alchemy - 55 - 99",
             "text" : "55 - 99 magic",
             "num_group" : 1
