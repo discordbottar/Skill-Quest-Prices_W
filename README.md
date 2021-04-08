@@ -43,7 +43,7 @@ The original code of the file is as follows:
 }
 ```
 
-Let's change it! Below are the updated skilling prices.
+### Let's change it! Below are the updated skilling prices.
 
 ```json
 {
@@ -82,8 +82,8 @@ Let's change it! Below are the updated skilling prices.
 }
 ```
 
-Once you are done making your edit's, hit the green "commit changes" button at the bottom and you're done.
-Note: Don't worry about the `checkpoints` section; I will fix that myself.
+### Once you are done making your edit's, hit the green "commit changes" button at the bottom and you're done.
+### Note: Don't worry about the `checkpoints` section; I will fix that myself.
 
 ## Adding New Skill Training Method 
 Again, I am using the `construction.json` file we edited above.
