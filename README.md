@@ -2,6 +2,8 @@
 
 ## **Editing Skill Prices**
 
+![Imgur gif](https://i.imgur.com/RHUdQdE.gif)
+
 For this example, we will be editing the file `construction.json`
 
 The original code of the file is as follows:
