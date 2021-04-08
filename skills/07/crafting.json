@@ -14,6 +14,12 @@
             "notes" : "Hides + Juwelry"
         },
         {
+            "start_level" : 33,
+            "end_level" : 99,
+            "gp/xp" : 25,
+            "notes" : "Uncut Rubies"
+        },
+        {
             "start_level" : 54,
             "end_level" : 99,
             "gp/xp" : 20,
